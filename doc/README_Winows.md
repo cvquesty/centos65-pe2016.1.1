@@ -36,11 +36,11 @@ Move it to the C:\Users\username\\.vagrant.d\\.pe_build directory.
 
 In Windows Explorer, navigate to a location within which to create your project.  From there, clone the git repository.
 
-	git clone https://github.com/cvquesty/centos65-pe2015.3.git
+	git clone https://github.com/cvquesty/centos65-pe2016.1.1.git
 
 **Change to the Directory and Launch Vagrant**
 
-    cd centos65-pe2015.3
+    cd centos65-pe2016.1.1
     vagrant up
 
 **Notes:**
